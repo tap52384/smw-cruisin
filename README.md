@@ -14,3 +14,9 @@ The following software is required:
 - [DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35) - required for Snes9x emulator
 - [Snes9x](https://github.com/snes9xgit/snes9x) - SNES emulator recommended by [SMW Central](https://www.smwcentral.net/?p=faq&page=1219813-emulators-and-roms)
 - Super Mario World rom
+
+### Tips & Tricks
+
+- If you are using AMK, do not use 1DFA
+-   What is AMK?
+-   What is 1DFA?
